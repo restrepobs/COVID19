@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/restrepobs.github.io-COVID19/static/css/main.c5e02e06.chunk.css",
+    "main.js": "/restrepobs.github.io-COVID19/static/js/main.44061950.chunk.js",
+    "main.js.map": "/restrepobs.github.io-COVID19/static/js/main.44061950.chunk.js.map",
+    "runtime-main.js": "/restrepobs.github.io-COVID19/static/js/runtime-main.59fb4a4b.js",
+    "runtime-main.js.map": "/restrepobs.github.io-COVID19/static/js/runtime-main.59fb4a4b.js.map",
+    "static/js/2.c2322daf.chunk.js": "/restrepobs.github.io-COVID19/static/js/2.c2322daf.chunk.js",
+    "static/js/2.c2322daf.chunk.js.map": "/restrepobs.github.io-COVID19/static/js/2.c2322daf.chunk.js.map",
+    "index.html": "/restrepobs.github.io-COVID19/index.html",
+    "precache-manifest.ac76f0b76dc005c285b71da516849f80.js": "/restrepobs.github.io-COVID19/precache-manifest.ac76f0b76dc005c285b71da516849f80.js",
+    "service-worker.js": "/restrepobs.github.io-COVID19/service-worker.js",
+    "static/css/main.c5e02e06.chunk.css.map": "/restrepobs.github.io-COVID19/static/css/main.c5e02e06.chunk.css.map",
+    "static/js/2.c2322daf.chunk.js.LICENSE.txt": "/restrepobs.github.io-COVID19/static/js/2.c2322daf.chunk.js.LICENSE.txt",
+    "static/media/covid.png": "/restrepobs.github.io-COVID19/static/media/covid.d7265326.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59fb4a4b.js",
+    "static/js/2.c2322daf.chunk.js",
+    "static/css/main.c5e02e06.chunk.css",
+    "static/js/main.44061950.chunk.js"
+  ]
+}
